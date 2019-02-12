@@ -58,8 +58,11 @@ If a community member engages in unacceptable behavior, the community organizers
 ## 7. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. 
+
 Raj Shah: +91 8512818182
-email: ingenium@ahduni.edu.in
+
+email: ingenium@ahduni.edu.in.
+
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
@@ -76,7 +79,9 @@ This code of conduct and its related procedures also applies to unacceptable beh
 ## 10. Contact info
 
 Raj Shah: +91 8512818182
+
 email: ingenium@ahduni.edu.in
+
 ## 11. License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
